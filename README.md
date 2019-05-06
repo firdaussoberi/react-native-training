@@ -7,4 +7,4 @@ To download:
 git clone https://github.com/firdaussoberi/react-native-training.git
 ```
 
-or just download it from the web interface on top right 
+or just download it from the web interface on top right (green button: Clone or download -> Download ZIP)
